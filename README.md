@@ -1,9 +1,4 @@
-# Curso digital: Git/Versionamento
+# Curso Digital: Git
 
-## Gravando mudanças no repositório: ok
+## Salvando alterações no Git
 * Comando git push
-
-### Salvando modificações no Git: ok
-
-#### Salvando alterações no Git: ok
-* Uso do comando git restore
